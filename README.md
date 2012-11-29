@@ -3,6 +3,6 @@ socialnews
 
 socialnews = knockoutjs + signalr
 
-[live demo](htt://socialnews.apphb.com) 
+[live demo](http://socialnews.apphb.com) 
 
-codeproject
+form [codeproject](http://codeproject.com)
